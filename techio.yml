@@ -1,4 +1,10 @@
-title: Simple C Template
+title: Programação em C
 plan:
-- title: C Snippet
-  statement: statement.md
+- title: Estruturas de Dados
+  plan:
+  - title: Lista
+    statement: /markdowns/estruturas_dados/lista.md
+  - title: Pilha
+    statement: /markdowns/estruturas_dados/pilha.md
+  - title: Fila
+    statement: /markdowns/estruturas_dados/fila.md
