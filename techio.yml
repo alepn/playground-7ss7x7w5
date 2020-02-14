@@ -2,6 +2,8 @@ title: Programação em C
 plan:
 - title: Estruturas de Dados
   plan:
+  - title: Apresentação
+    statement: /markdowns/estruturas_dados/apresentacao.md
   - title: Lista
     statement: /markdowns/estruturas_dados/lista.md
   - title: Pilha
